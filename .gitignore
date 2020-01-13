@@ -1,1 +1,3 @@
 ignore.txt
+# Also ignore log files
+*.log
